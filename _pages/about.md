@@ -47,10 +47,10 @@ My research interest includes neural machine translation and computer vision. I 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📖 Educations
-- *2021.09 - 2025.06*, Shaanxi Normal University | School of Artificial Intelligence and Computer Science | Computer Science and Technology (Innovation Experimental Class). 
+- *2021.09 - 2025.06*, Shaanxi Normal University, School of Artificial Intelligence and Computer Science, Computer Science and Technology (Innovation Experimental Class). 
 
 # 💬 Invited Talks
 
 
 # 💻 Internships
-- *2025.06 - 2025.09*, [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) | [School of Science and Engineering](https://sse.cuhk.edu.cn/) | Research Assistant, China.
+- *2025.06 - 2025.09*, [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans), [School of Science and Engineering](https://sse.cuhk.edu.cn/), Research Assistant, China.
