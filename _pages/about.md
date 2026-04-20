@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a MPhil student majoring in Artificial Intelligence at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) (CUHKSZ). I earned my Bachelor's degree in Computer Science and Technology from [Shaanxi Normal University](https://www.snnu.edu.cn/). 
+I am currently a MPhil student majoring in Artificial Intelligence at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) (CUHKSZ). I earned my Bachelor's degree in Computer Science and Technology from [Shaanxi Normal University](https://www.snnu.edu.cn/)(SNNU). 
 
 
 My research interests focus on Large Language Models (LLMs), Multi-modal Perception and Computer Vision. I am particularly interested in bridging the gap between domain-specific knowledge and generative AI to solve complex real-world problems.
@@ -44,14 +44,14 @@ My research interests focus on Large Language Models (LLMs), Multi-modal Percept
 
 
 # 🎖 Honors and Awards
-- Excellent Graduation Thesis (Top 3%), Shaanxi Normal University (2025).
-- Excellent Scholarship, Shaanxi Normal University (Three consecutive years: 2021-2022, 2022-2023, 2023-2024).
-- Outstanding Student Award, Shaanxi Normal University (2021-2022, 2022-2023).
-- 3rd Prize (National Level), The 16th Chinese Collegiate Computing Competition (2023).
-- 1st Prize (Northwest Region), The 16th Chinese Collegiate Computing Competition (2023).
-- Silver Award (Shaanxi Region), Huawei Ascend AI Innovation Competition (2023).
-- 3rd Prize (Shaanxi Region), The 13th National College Student Market Survey and Analysis Competition (2023).
-- 3rd Prize (Shaanxi Region), Mathematics Competition of Chinese College Students (2023).
+- Excellent Graduation Thesis.
+- Excellent Scholarship,Three consecutive years: 2021-2022, 2022-2023, 2023-2024.
+- Outstanding Student Award, 2021-2022, 2022-2023.
+- 3rd Prize (National Level), The 16th Chinese Collegiate Computing Competition, 2023.
+- 1st Prize (Northwest Region), The 16th Chinese Collegiate Computing Competition, 2023.
+- Silver Award (Provincial Level), Huawei Ascend AI Innovation Competition, 2023.
+- 3rd Prize (Provincial Level), The 13th National College Student Market Survey and Analysis Competition, 2023.
+- 3rd Prize (Provincial Level), Mathematics Competition of Chinese College Students, 2023.
 
 # 📖 Educations
 - *2025.12 - 2027.06*, The Chinese University of Hong Kong, Shenzhen, School of Artificial Intelligence
