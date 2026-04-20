@@ -17,14 +17,16 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+I am currently a MPhil student majoring in Artificial Intelligence at The Chinese University of Hong Kong, Shenzhen (CUHKSZ). I earned my Bachelor's degree in Computer Science and Technology from Shaanxi Normal University. 
 
-My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
+
+My research interests focus on Large Language Models (LLMs), Multi-modal Perception and Computer Vision. I am particularly interested in bridging the gap between domain-specific knowledge and generative AI to solve complex real-world problems.
+
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2025.12*: &nbsp;🎉🎉 Completed the paper "Retrieval-Augmented Vision-Language Grounding for Industrial Land Mapping and Ecological Risk Assessment," currently under review (First Author).
+- *2025.06*: &nbsp;🎉🎉 Graduated from Shaanxi Normal University with the "Excellent Graduation Thesis" award (Top 3%).
 
 # 📝 Publications 
 
@@ -40,17 +42,23 @@ My research interest includes neural machine translation and computer vision. I 
 </div>
 </div> -->
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Excellent Graduation Thesis (Top 3%), Shaanxi Normal University (2025).
+- Excellent Scholarship, Shaanxi Normal University (Three consecutive years: 2021-2022, 2022-2023, 2023-2024).
+- Outstanding Student Award, Shaanxi Normal University (2021-2022, 2022-2023).
+- 3rd Prize (National Level), The 16th Chinese Collegiate Computing Competition (2023).
+- 1st Prize (Northwest Region), The 16th Chinese Collegiate Computing Competition (2023).
+- Silver Award (Shaanxi Region), Huawei Ascend AI Innovation Competition (2023).
+- 3rd Prize (Shaanxi Region), The 13th National College Student Market Survey and Analysis Competition (2023).
+- 3rd Prize (Shaanxi Region), Mathematics Competition of Chinese College Students (2023).
 
 # 📖 Educations
-- *2021.09 - 2025.06*, Shaanxi Normal University, School of Artificial Intelligence and Computer Science, Computer Science and Technology (Innovation Experimental Class). 
+- *2025.12 - 2027.06*, The Chinese University of Hong Kong, Shenzhen, School of Artificial Intelligence, Artificial Intelligence.
+- *2021.09 - 2025.06*, Shaanxi Normal University, School of Artificial Intelligence and Computer Science, Computer Science and Technology.
 
 # 💬 Invited Talks
 
 
 # 💻 Internships
-- *2025.06 - 2025.09*, [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans), [School of Science and Engineering](https://sse.cuhk.edu.cn/), Research Assistant, China.
+- *2025.06 - 2025.12*, [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans), [School of Science and Engineering](https://sse.cuhk.edu.cn/), Research Assistant.
