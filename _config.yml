@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "Wu Yuling"
   # avatar           : "images/android-chrome-512x512.png"
-  avatar           : "images/favicon.png"
+  avatar           : "images/favicon512.png"
   bio              : "The Chinese University of Hong Kong, Shenzhen"
   location         : "Shenzhen, China"
   employer         :
