@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a MPhil student majoring in Artificial Intelligence at The Chinese University of Hong Kong, Shenzhen (CUHKSZ). I earned my Bachelor's degree in Computer Science and Technology from Shaanxi Normal University. 
+I am currently a MPhil student majoring in Artificial Intelligence at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) (CUHKSZ). I earned my Bachelor's degree in Computer Science and Technology from [Shaanxi Normal University](https://www.snnu.edu.cn/). 
 
 
 My research interests focus on Large Language Models (LLMs), Multi-modal Perception and Computer Vision. I am particularly interested in bridging the gap between domain-specific knowledge and generative AI to solve complex real-world problems.
@@ -54,11 +54,11 @@ My research interests focus on Large Language Models (LLMs), Multi-modal Percept
 - 3rd Prize (Shaanxi Region), Mathematics Competition of Chinese College Students (2023).
 
 # 📖 Educations
-- *2025.12 - 2027.06*, The Chinese University of Hong Kong, Shenzhen, School of Artificial Intelligence, Artificial Intelligence.
-- *2021.09 - 2025.06*, Shaanxi Normal University, School of Artificial Intelligence and Computer Science, Computer Science and Technology.
+- *2025.12 - 2027.06*, The Chinese University of Hong Kong, Shenzhen, School of Artificial Intelligence
+- *2021.09 - 2025.06*, Shaanxi Normal University, School of Artificial Intelligence and Computer Science
 
 # 💬 Invited Talks
 
 
 # 💻 Internships
-- *2025.06 - 2025.12*, [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans), [School of Science and Engineering](https://sse.cuhk.edu.cn/), Research Assistant.
+- *2025.06 - 2025.12*, The Chinese University of Hong Kong, Shenzhen, School of Science and Engineering, Research Assistant.
