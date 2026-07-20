@@ -64,8 +64,6 @@ My research interests focus on Large Language Models (LLMs), Multi-modal Percept
 - *2025.12 - 2027.06*, The Chinese University of Hong Kong, Shenzhen, School of Artificial Intelligence
 - *2021.09 - 2025.06*, Shaanxi Normal University, School of Artificial Intelligence and Computer Science
 
-# 💬 Invited Talks
-
 
 # 💻 Internships
 - *2025.06 - 2025.12*, The Chinese University of Hong Kong, Shenzhen, School of Science and Engineering, Research Assistant.
