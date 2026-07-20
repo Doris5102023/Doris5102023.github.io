@@ -25,12 +25,12 @@ My research interests focus on Large Language Models (LLMs), Multi-modal Percept
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Completed the paper "Retrieval-Augmented Vision-Language Grounding for Industrial Land Mapping and Ecological Risk Assessment," currently under review (First Author).
+- *2025.12*: &nbsp;🎉🎉 Completed the paper "City-Scale Industrial Land Grounding and Environmental Risk Mapping with Retrieval-Augmented Vision-Language Models," currently under review (First Author).
 - *2025.06*: &nbsp;🎉🎉 Graduated from Shaanxi Normal University with the "Excellent Graduation Thesis" award (Top 3%).
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
