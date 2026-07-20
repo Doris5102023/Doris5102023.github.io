@@ -30,7 +30,7 @@ My research interests focus on Large Language Models (LLMs), Multi-modal Percept
 
 # 📝 Publications 
 
--<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
@@ -41,6 +41,9 @@ My research interests focus on Large Language Models (LLMs), Multi-modal Percept
 - Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 </div>
 </div> -->
+
+Journal & Conference Papers
+<div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;"> <div style="flex: 0 0 280px;"> <img src="fig/paper1_thumb.png" alt="paper thumbnail" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"> </div> <div style="flex: 1;"> <strong style="font-size: 18px;">City-Scale Industrial Land Grounding and Environmental Risk Mapping with Retrieval-Augmented Vision-Language Models</strong> <p style="margin: 6px 0; font-size: 15px;"> <strong>Yuling Wu</strong>, Coauthor A, Coauthor B, Supervisor Name* </p> <p style="margin: 6px 0; font-size: 15px; color: #555;"> <em>Name of Journal / Conference</em>, 2026 </p> <div style="margin-top: 8px;"> <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank">[Paper]</a> <a href="https://github.com/xxx/xxx" target="_blank" style="margin-left: 10px;">[Code]</a> <a href="#bib1" style="margin-left: 10px;">[BibTeX]</a> </div> </div> </div><div style="display: flex; align-items: flex-start; gap: 20px; margin-bottom: 40px;"> <div style="flex: 0 0 280px;"> <img src="fig/paper2_thumb.png" alt="paper thumbnail" style="width: 100%; border-radius: 6px; box-shadow: 0 2px 10px rgba(0,0,0,0.1);"> </div> <div style="flex: 1;"> <strong style="font-size: 18px;">Full Paper Title Two Here</strong> <p style="margin: 6px 0; font-size: 15px;"> Coauthor A, <strong>Your Full Name</strong>, Supervisor Name* </p> <p style="margin: 6px 0; font-size: 15px; color: #555;"> <em>Name of Journal / Conference</em>, 2025 </p> <div style="margin-top: 8px;"> <a href="https://arxiv.org/abs/xxxx.xxxxx" target="_blank">[Paper]</a> <a href="https://github.com/xxx/xxx" target="_blank" style="margin-left: 10px;">[Code]</a> <a href="#bib2" style="margin-left: 10px;">[BibTeX]</a> </div> </div> </div>
 
 
 # 🎖 Honors and Awards
