@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am currently a MPhil student majoring in Artificial Intelligence at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) (CUHKSZ). I earned my Bachelor's degree in Computer Science and Technology from [Shaanxi Normal University](https://www.snnu.edu.cn/) (SNNU). 
+I am currently an MPhil student in Artificial Intelligence at [The Chinese University of Hong Kong, Shenzhen](https://www.cuhk.edu.cn/zh-hans) (CUHKSZ), under the supervision of [Prof.David Zhang](https://www4.comp.polyu.edu.hk/~csdzhang/). I obtained my Bachelor's degree in Computer Science and Technology from [Shaanxi Normal University](https://www.snnu.edu.cn/) (SNNU). 
 
 
 My research interests focus on Large Language Models (LLMs), Multi-modal Perception and Computer Vision. I am particularly interested in bridging the gap between domain-specific knowledge and generative AI to solve complex real-world problems.
