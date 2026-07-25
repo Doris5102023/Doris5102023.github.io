@@ -47,7 +47,7 @@ My research interests focus on Large Language Models (LLMs), Multi-modal Percept
 
 ## Preprints
 - **EditCaption: Human-Refined SFT and HAE-DPO for Image Editing Instruction Synthesis**
-  Xiangyuan Wang, Hongtao Cai, Yudong Bai, Chao Hui, Tianze Zhou, Haohua Chen, Hao Shi, <strong>Yuling Wu</strong>, Yao Hu, Xu Tang, Yibo Chen, Wei Zhu*. arXiv preprint arXiv:2604.08213. <a href="https://arxiv.org/abs/2604.08213" target="_blank">[arXiv]</a>
+  Xiangyuan Wang, Honghao Cai, Yudong Bai, Chao Hui, Tianze Zhou, Haohua Chen, Hao Shi, <strong>Yuling Wu</strong>, Yao Hu, Xu Tang, Yibo Chen, Wei Zhu*. arXiv preprint arXiv:2604.08213. <a href="https://arxiv.org/abs/2604.08213" target="_blank">[arXiv]</a>
 
 
 # 🎖 Honors and Awards
