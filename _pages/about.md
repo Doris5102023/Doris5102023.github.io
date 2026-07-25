@@ -25,7 +25,7 @@ My research interests focus on Large Language Models (LLMs), Multi-modal Percept
 
 
 # 🔥 News
-- *2025.12*: &nbsp;🎉🎉 Completed the paper "City-Scale Industrial Land Grounding and Environmental Risk Mapping with Retrieval-Augmented Vision-Language Models," currently under review (First Author).
+- *2026.07*: &nbsp;🎉🎉 Our work "City-Scale Industrial Land Grounding and Environmental Risk Mapping with Retrieval-Augmented Vision-Language Models" is accepted by IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS) (JCR Q1, IF = 6.3).
 - *2025.06*: &nbsp;🎉🎉 Graduated from Shaanxi Normal University with the "Excellent Graduation Thesis" award (Top 3%).
 
 # 📝 Publications 
