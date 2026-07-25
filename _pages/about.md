@@ -65,4 +65,4 @@ My research interests focus on Large Language Models (LLMs), Multi-modal Percept
 - *2021.09 - 2025.06*, Shaanxi Normal University, School of Artificial Intelligence and Computer Science
 
 # 💻 Internships
-- *2025.06 - 2025.12*, The Chinese University of Hong Kong, Shenzhen, School of Science and Engineering, Research Assistant.
+- *2025.06 - 2025.12*, The Chinese University of Hong Kong, Shenzhen, School of Science and Engineering, supervised by [Prof.Qingyu Li](https://lqycrystal.github.io/qingyuli.github.io/).
